@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Nguyễn A",
+    "Age": 10
+  },
+  {
+    "id": 2,
+    "name": "Nguyễn B",
+    "Age":20
+  },
+  {
+    "id": 3,
+    "name": "Nguyễn C ",
+    "Age": 30
+  }
+]
